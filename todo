@@ -1,0 +1,25 @@
+1. player collidor 
+    - collision with walls (bug)
+    - jump height
+
+2. editor
+    - clear level option 
+    - erease option *
+    - snap to grid *
+
+3. level selector
+    - add new levels *
+    - delete old levels
+
+4. Game
+    - ways to end game(flag) *
+    - score system 
+
+5. art
+
+6. bugs
+ - when screen changing, transitition not working !!
+ ✅ game not opeing in full screen !! 
+ - not working with diffrent screen
+ - loading huge levels every frame.. causing lag
+    - fix:- load only once
