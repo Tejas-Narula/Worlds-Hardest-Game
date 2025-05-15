@@ -1,0 +1,5 @@
+__pycache__/
+todo.txt
+
+levels/*
+!logs/level_0.supelvl
